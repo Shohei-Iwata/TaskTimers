@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px"
+	 height="30px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#FFFFFF;stroke:#231815;stroke-width:1.5;stroke-miterlimit:10;}
+	.st2{display:inline;fill:#231815;stroke:#231815;stroke-width:1.5;stroke-miterlimit:10;}
+	.st3{display:inline;fill:#231815;stroke:#231815;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#231815;stroke-width:1.5;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#231815;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#231815;}
+</style>
+<g id="レイヤー_1" class="st0">
+	<circle class="st1" cx="15" cy="16.895" r="11.47"/>
+	<circle class="st2" cx="15" cy="16.895" r="0.148"/>
+	
+		<rect x="15" y="7.677" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 29.9998 24.0443)" class="st3" width="0" height="8.691"/>
+	<line class="st4" x1="12.263" y1="2.505" x2="17.737" y2="2.505"/>
+	<line class="st5" x1="15" y1="4.97" x2="15" y2="2.732"/>
+	<line class="st5" x1="5.256" y1="7.23" x2="6.852" y2="8.826"/>
+	<line class="st5" x1="4.436" y1="8.027" x2="6.056" y2="6.384"/>
+</g>
+<g id="レイヤー_1のコピー">
+	<g>
+		<circle class="st6" cx="15" cy="16.895" r="11.47"/>
+		<path class="st7" d="M15,29.115c-6.738,0-12.22-5.481-12.22-12.22S8.262,4.675,15,4.675s12.22,5.482,12.22,12.22
+			S21.738,29.115,15,29.115z M15,6.175c-5.911,0-10.72,4.809-10.72,10.72S9.089,27.615,15,27.615s10.72-4.809,10.72-10.72
+			S20.911,6.175,15,6.175z"/>
+	</g>
+	<g>
+		<circle class="st7" cx="15.001" cy="16.82" r="0.402"/>
+		<path class="st7" d="M15,17.723c-0.498,0-0.902-0.405-0.902-0.902s0.405-0.902,0.902-0.902s0.902,0.405,0.902,0.902
+			S15.498,17.723,15,17.723z M15,16.723c-0.054,0-0.098,0.044-0.098,0.098c0,0.107,0.195,0.107,0.195,0
+			C15.098,16.767,15.054,16.723,15,16.723z"/>
+	</g>
+	<g>
+		
+			<rect x="15" y="7.677" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 29.9998 24.0443)" class="st7" width="0" height="8.691"/>
+		<rect x="14.5" y="7.676" class="st7" width="1" height="8.692"/>
+	</g>
+	<rect x="12.263" y="1.754" class="st7" width="5.475" height="1.5"/>
+	<rect x="14.5" y="2.732" class="st7" width="1" height="2.238"/>
+	<rect x="5.554" y="6.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.9038 6.6321)" class="st7" width="1" height="2.257"/>
+	<rect x="4.092" y="6.705" transform="matrix(0.7022 -0.712 0.712 0.7022 -3.5677 5.8808)" class="st7" width="2.307" height="1"/>
+</g>
+</svg>

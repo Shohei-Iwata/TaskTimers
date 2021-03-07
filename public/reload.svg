@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.88" height="22.88" viewBox="0 0 24.88 22.88">
+  <g>
+    <path d="M4.89,18.47a9.94,9.94,0,0,0,18.55-5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+    <polygon points="22.53 11.66 21.83 12.35 22.77 12.62 22.53 11.66" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  </g>
+  <g>
+    <path d="M22.11,8.53a9.94,9.94,0,0,0-18.55,5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+    <polygon points="2.35 11.21 3.05 10.53 2.1 10.26 2.35 11.21" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  </g>
+  <path d="M-1.5,28.5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  <path d="M28.5-1.5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  <path d="M28.5,28.5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+  <path d="M-1.5-1.5" transform="translate(-1.06 -2.06)" style="fill: none;stroke: #000;stroke-miterlimit: 10;stroke-width: 3px"/>
+</svg>

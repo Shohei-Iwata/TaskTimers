@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.89" height="28.98" viewBox="0 0 25.89 28.98">
+  <circle cx="13.17" cy="16.26" r="11.47" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 2.5px"/>
+  <g>
+    <circle cx="13.17" cy="16.13" r="0.2" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 3px"/>
+    <line x1="9.17" y1="1.25" x2="17.17" y2="1.25" style="fill: none;stroke: #e2001b;stroke-miterlimit: 10;stroke-width: 2.5px"/>
+    <line x1="13.17" y1="4.58" x2="13.17" y2="2.35" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="2.67" y1="6.09" x2="5.02" y2="8.44" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="0.71" y1="8.06" x2="4.64" y2="4.12" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="13.17" y1="6.95" x2="13.17" y2="16.98" style="fill: none;stroke: #d3151e;stroke-miterlimit: 10;stroke-width: 2px"/>
+  </g>
+</svg>
